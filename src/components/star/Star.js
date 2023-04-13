@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './Star.css';
 
 function PostReviewStarRating(props) {
   const [rating, setRating] = useState(props.rating);

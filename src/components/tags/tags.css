@@ -15,7 +15,7 @@
 }
 
 .tags-tag {
-    color: rgb(187, 187, 187);
+    color: rgb(167, 167, 167);
     font-weight: normal;
     padding-top: 50px;
     text-align: left;
@@ -50,5 +50,6 @@
 }
 
 .alpha {
-    color: rgba(0, 0, 0, 0.63);
+    color: rgb(0, 0, 0);
+    /* font-weight: bold; */
 }
