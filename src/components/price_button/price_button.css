@@ -1,0 +1,21 @@
+.price-button {
+    background-color: #ff214f;
+    max-width: max-content;
+    margin: auto;
+    color: white;
+    border: 2px solid #ff214f;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: 'monteserrat';
+    font-weight: bold;
+    padding: 10px 60px;
+    transition: 0.2s ease-in;
+}
+
+.price-button:hover {
+    background-color: #ffffff;
+    max-width: max-content;
+    color: black;
+    margin: auto;
+    /* border: 1px solid #ff214f; */
+}
