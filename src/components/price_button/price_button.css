@@ -6,10 +6,10 @@
     border: 2px solid #ff214f;
     border-radius: 20px;
     font-size: 20px;
-    font-family: 'monteserrat';
     font-weight: bold;
     padding: 10px 60px;
     transition: 0.2s ease-in;
+    cursor: pointer;
 }
 
 .price-button:hover {

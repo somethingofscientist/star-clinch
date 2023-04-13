@@ -15,10 +15,9 @@
 
 .slider-one-heading{
     text-align: left;
-    font-size: 24px;
-    font-weight: 500;
     margin-left: 10px;
-    font-family: 'montserrat';
+    font-size: 20px;
+    font-weight: bold;
 }
 
 h1 {
@@ -36,7 +35,6 @@ h1 {
     max-width: 320px;
     margin: auto 0.75rem;
     text-align: center;
-    font-family: arial;
 }
 
 .price {
