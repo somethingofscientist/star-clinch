@@ -1,10 +1,13 @@
 import React from 'react'
 import './Gallery.css';
+import Gallery_btn from './Gallery_btn';
 
 
 const Gallery = () => {
     return (
         <>
+            <Gallery_btn />
+
             <div className="main-gallery">
                 {/* <h1>Gallery</h1> */}
                 <div className="col">

@@ -5,9 +5,11 @@ import './price_button.css';
 const Price_button = () => {
     return (
         <>
-            <div className='price-button'>
-                See Price And Book
-            </div>
+            <a href="#booking-form">
+                <div className='price-button'>
+                    See Price And Book
+                </div>
+            </a>
         </>
     )
 }

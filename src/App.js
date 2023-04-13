@@ -8,6 +8,8 @@ import Price_button from "./components/price_button/Price_button";
 import MaxContainer from "./components/max-container/MaxContainer";
 import Slider_two from "./components/Slider_two/Slider_two";
 import Profile from "./components/profile/Profile";
+import BookingForm from "./components/Form/BookingForm";
+import { BrowserRouter, Route, Router } from "react-router-dom";
 
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
       </MaxContainer>
 
       <Gallery />
+
+        <BookingForm />
 
       <MaxContainer >
         <Price_button />
