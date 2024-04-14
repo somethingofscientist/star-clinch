@@ -1,9 +1,0 @@
-.max-container{
-    max-width: 82vw;
-    /* background-color: red; */
-    margin: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 50px;
-}
