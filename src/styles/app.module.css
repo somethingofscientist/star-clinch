@@ -1,0 +1,41 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 24px 0px;
+    gap: 24px;
+    background-color:#E0FFFA;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 260.28px;
+}
+
+@media (min-width: 768px) {
+    .parent {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #E0FFFA;
+            width: 100%;
+            padding: 48px 0px;
+            gap: 24px;
+        }
+    
+        .image {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 791.02px;
+            height: 549.02px;
+            padding-left: 0px;
+            padding-right: 0px;
+        }
+
+
+}
